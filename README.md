@@ -42,6 +42,6 @@ Poster covering the full MCE workflow in GIS — objective definition, Boolean a
 How do you choose the best place to put something? — a walkthrough of the GIS method for weighing up competing demands (environment, cost, access, politics) and turning them into a map of where a project should actually go (MSc GIS, University of Aberdeen, 2020)
 f
 
-**[Operations and Maintenance Manual for VLE](./2020%20Operations%20and%20Maintenance%20Manual%20for%20VLE.pd)**
+**[Operations and Maintenance Manual for VLE](./2020%20Operations%20and%20Maintenance%20Manual%20for%20VLE.pdf)**
 Implementation and handover documentation for the VLE database — physical model in MySQL DDL with primary/foreign key constraints and ON DELETE/ON UPDATE policies graded by data sensitivity, MyISAM engine rationale, READ COMMITTED isolation with autocommit disabled, role-based access privilege design, example queries and populated test data, plus backup, journaling, service and lifecycle recommendations.
 The manual that comes with the database — how to run it, query it, back it up, control who can see what, and hand it on to whoever maintains it next (MSc Database Systems and Big Data, University of Aberdeen, 2020)
